@@ -574,6 +574,17 @@ template {
   padding-right: 5px
 }
 
+.l-header .header_link_instagram::before {
+  content: '\f16d';
+  font-family: FontAwesome;
+  padding-right: 5px
+}
+
+.l-header .header_link_line::before {
+  content: '\f3c0';
+  font-family: FontAwesome;
+  padding-right: 5px
+}
 @media screen and (max-width:700px) and (max-width:700px), screen and (min-width:701px) and (max-width:960px) and (max-width:700px) {
   .l-header .header_group.header_subheading {
     left: 80px
