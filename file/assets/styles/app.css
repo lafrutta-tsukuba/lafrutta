@@ -1196,7 +1196,7 @@ template {
 }
 
 
-@media screen and (max-width:700px), screen and (min-width:701px) and (max-width:960px) {
+@media screen and (max-width:700px), screen and (min-width:701px) {
   .p-index .home_top_container {
     height: 440px
   }
@@ -1258,7 +1258,7 @@ template {
   font-family: 'Optima', sans-serif;
 }
 
-@media screen and (max-width:700px), screen and (min-width:701px) and (max-width:960px) {
+@media screen and (max-width:700px), screen and (min-width:701px){
   .p-index .home_top_container_textblock_h2 {
     font-size: 50px
   }
@@ -1317,7 +1317,7 @@ template {
   }
 }
 
-@media screen and (max-width:700px), screen and (min-width:701px) and (max-width:960px) {
+@media screen and (max-width:700px), screen and (min-width:701px){
   .p-index .home_top_container_textblock_days {
     font-size: 18px
   }
@@ -1397,7 +1397,7 @@ template {
   text-align: center
 }
 
-@media screen and (min-width:701px) and (max-width:960px) {
+@media screen and (min-width:701px){
   .p-index .home_main_block p {
     font-size: 14px;
     line-height: 1.6em
@@ -1440,11 +1440,26 @@ template {
   width:100%;
 }
 
-@media screen and (min-width:701px) and (max-width:960px) {
+@media screen and (min-width:701px)  {
   .p-index .home_main_block .home_main_contents_intro_top p {
+    position: relative;
+    text-align: left;
+    bottom: 4%;
     line-height: 1.9em;
-    width:100%;
+    top: 10px;
+    left: 50%;
+    margin-left:-300px; 
+    letter-spacing: .06em;
+    padding: 21px 20px;
+    width:300px;
       
+  }
+  .p-index .home_main_block .home_main_contents_intro_top img {
+    position: absolute;
+    top: 20%;
+    left: 50% ;
+    bottom: 4%;
+    width: 300px;
   }
 }
 
