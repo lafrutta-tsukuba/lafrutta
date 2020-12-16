@@ -1417,7 +1417,7 @@ template {
 }
 
 .p-index .home_main_block .home_main_contents_intro_top {
-  text-align: left;
+  text-align: center;
   position: relative
 }
 
@@ -1432,7 +1432,7 @@ template {
 }
 
 .p-index .home_main_block .home_main_contents_intro_top p {
-  position: absolute;
+  position: relative;
   bottom: 4%;
   line-height: 1.9em;
   letter-spacing: .06em;
