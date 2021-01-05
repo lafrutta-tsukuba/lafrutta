@@ -15,7 +15,7 @@ body {
   -webkit-text-size-adjust: 100%;
   -webkit-overflow-scrolling: touch;
   -webkit-font-smoothing: antialiased;
-  font-family: '游ゴシック体', 'Yu Gothic', YuGothic, 'ヒラギノ角ゴシック Pro', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif
+  font-family: 'Meiryo UI','TsukuARdGothic-Regular', '游ゴシック体', 'Yu Gothic', 'ヒラギノ角ゴシック Pro', 'Hiragino Kaku Gothic Pro', 'メイリオ', 'Meiryo, Osaka', 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -148,7 +148,7 @@ sup {
 
 ::selection {
   background-color: #b3d4fc;
-  color: rgb(29, 88, 52);
+  color: rgb(248, 111, 87);
   text-shadow: none
 }
 
@@ -311,7 +311,7 @@ template {
     position: fixed;
     width: 100vw;
     height: 200vh;
-    background: rgba(0, 0, 0, .51);
+    background: rgba(226, 226, 226, 0.301);
     z-index: 2;
     top: 0;
     left: 0
@@ -357,7 +357,7 @@ template {
   text-align: center;
   width: 100%;
   box-shadow: 0 0 4px -1px rgb(255, 255, 255);
-  background-color: #2b9e6e;
+  background-color: #e63f29ce;
   color: #fff;
   font-family: 'Optima', sans-serif;
   letter-spacing: 0.1em;
@@ -373,7 +373,7 @@ template {
   height: 60px;
   --webkit-transition: 0.3s all ease;
   transition: .3s all ease;
-  background-color: #2b9e6e;
+  background-color: #e63f29ce;
   z-index: 2;
   color: #fff;
   width: 100%
@@ -392,8 +392,8 @@ template {
   left: 0;
   z-index: -1;
   width: 100%;
-  background-color: #55a37e62;
-  height: 2px;
+  background-color: #f8675d8c;
+  height: 10px;
 }
 
 /* .l-header .header_wrapper::after {
@@ -511,7 +511,7 @@ template {
   .l-header .nav li {
     display: block;
     border-bottom: 1px solid rgba(33, 33, 33, .22);
-    background: rgba(226, 255, 202, 0.644)
+    background: rgba(255, 122, 104, 0.548)
   }
   .l-header.is_menu_opened {
     background-color: rgba(255, 255, 255, .85);
@@ -643,7 +643,7 @@ template {
 .u-bg_white {
   /* background-color: #d8d7cd;
   background-color: #fffef0; */
-  background-color: #fbfae6;
+  background-color: #ffe3e0d3;
   /* background-image: url(../images/background/linedpaper.png);
   background-image: url(../images/background/first_aid_kit.png); */
   background-image: url(../images/background/rough_diagonal.png)
@@ -801,7 +801,7 @@ template {
 .p-index .home_top_container_textblock_days {
   padding-bottom: 20px;
   text-align: center;
-  font-family: 'Bangers', sans-serif;
+  font-family: 'メイリオ', 'Meiryo, Osaka', 'Meiryo UI', '游ゴシック体', 'Yu Gothic', 'ヒラギノ角ゴシック Pro', 'Hiragino Kaku Gothic Pro', 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
   letter-spacing: 0.12em;
   font-size: 23px;
 }
@@ -815,7 +815,7 @@ template {
 .p-index .home_top_container_textblock_days .ja {
   font-size: 14px;
   font-weight: bold;
-  font-family: '游ゴシック体', 'Yu Gothic', YuGothic, 'ヒラギノ角ゴシック Pro', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+  font-family: 'Meiryo UI','TsukuARdGothic-Regular', '游ゴシック体', 'Yu Gothic', 'ヒラギノ角ゴシック Pro', 'Hiragino Kaku Gothic Pro', 'メイリオ', 'Meiryo, Osaka', 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
   letter-spacing: 0em;
   display: inline-block;
   text-align: center;
