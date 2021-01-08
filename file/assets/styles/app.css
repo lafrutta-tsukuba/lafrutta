@@ -735,7 +735,7 @@ template {
   max-width: 1000px;
   width: 100%;
   left: 50%;
-  top: 30vw;
+  top: 40vw;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   z-index: -1
