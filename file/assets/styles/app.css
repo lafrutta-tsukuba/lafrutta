@@ -21,6 +21,9 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-weight: 400
 }
+h3{
+  font-size: 25px;
+}
 
 a {
   text-decoration: none;
@@ -968,7 +971,7 @@ template {
   }
   .p-index .home_main_block .home_main_contents_intro_top img {
     position: absolute;
-    top: 20%;
+    top: 28%;
     left: 50% ;
     bottom: 4%;
     width: 300px;
