@@ -396,7 +396,7 @@ template {
   z-index: -1;
   width: 100%;
   background-color: #f8675d8c;
-  height: 10px;
+  height: 0px;
 }
 
 /* .l-header .header_wrapper::after {
@@ -436,7 +436,7 @@ template {
 .l-header .header_logo {
   font-size: 18px;
   padding: 0 20px;
-  width: 214px;
+  width: 150px;
   box-sizing: border-box;
   font-family: 'Optima', sans-serif;
 }
@@ -447,7 +447,7 @@ template {
 }
 
 .l-header .header_logo img {
-  width: 100%
+  width: 80%
 }
 
 .l-header .header_nav li {
@@ -806,6 +806,7 @@ template {
     width:250px;
     height:auto;
     left: 50%;
+    margin-bottom: 10px;
     margin-left: -140px;
     top: 0%;
     
@@ -826,6 +827,7 @@ template {
     width:230px;
     height:auto;
     left: 50%;
+    margin-bottom: 10px;
     margin-left: -130px;
     top: 0%;
     
