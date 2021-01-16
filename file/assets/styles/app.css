@@ -710,7 +710,7 @@ template {
   height: 100%;
   content: '';
   /* box-shadow: 0 0 116px 25px rgba(0, 0, 0, .46) inset; */
-  box-shadow: 0 0 116px 25px rgba(255, 238, 163, 0.651) inset;
+  box-shadow: 0 0 116px 25px rgba(194, 146, 146, 0.514) inset;
   opacity: 0.5;
   z-index: 0
 }
@@ -719,9 +719,7 @@ template {
   position: absolute;
   width: 100%;
   height: 100%;
-  content: '';
-  background: #000000;
-  background: #00000091;
+  background: #eea3000e;
   /* background: #fffbe5; */
   z-index: -2
 }
