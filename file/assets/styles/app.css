@@ -1200,8 +1200,8 @@ template {
 }
 
 .p-index .home_main_block .home_main_contents_twitter_bottom {
-  width: 300px;
-  max-width: 90%;
+  width: 450px;
+  max-width: 100%;
   margin: 0 auto;
   border: 5px solid #eaeaea
 }
