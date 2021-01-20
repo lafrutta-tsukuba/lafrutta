@@ -1201,7 +1201,7 @@ template {
 
 .p-index .home_main_block .home_main_contents_twitter_bottom {
   width: 600px;
-  max-width: 100%;
+  max-width: 70%;
   margin: 0 auto;
   border: 5px solid #eaeaea
 }
