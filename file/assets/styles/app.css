@@ -902,8 +902,8 @@ template {
 
 @media screen and (max-width:530px){
   .p-index .home_top_container_textblock_days {
-    padding-bottom: 5px;
-    line-height: 20px;
+    padding-bottom: 10px;
+    line-height: 22px;
   }
   .p-index .home_top_container_textblock_days p{
     padding-bottom: 0px;
