@@ -811,6 +811,13 @@ template {
   }
 }
 
+@media screen and (max-width:530px) {
+  .p-index .home_top_container_textblock {
+    height: 70%;
+    padding-bottom: 8px;
+  }
+}
+
 .p-index .home_top_container_textblock_h2, .p-index .home_top_container_textblock_link {
   text-align: center
 }
@@ -862,19 +869,17 @@ template {
     left: 50%;
     margin-bottom: 10px;
     margin-left: -130px;
-    top: 0%;
-    
-    
+    top: 0%; 
   }
 }
 
 .p-index .home_top_container_textblock_days {
-  padding-bottom: 25px;
+  padding-bottom: 20px;
   text-align: center;
   font-family: 'Meiryo UI','TsukuARdGothic-Regular', '游ゴシック体', 'Yu Gothic', 'ヒラギノ角ゴシック Pro', 'Hiragino Kaku Gothic Pro', 'メイリオ', 'Meiryo, Osaka', 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
   letter-spacing: 0.12em;
   font-size: 15px;
-  
+  line-height: 25px;
 }
 
 
@@ -895,26 +900,16 @@ template {
   align-items: center;
 }
 
-
-
-@media screen and (max-width:700px){
+@media screen and (max-width:530px){
   .p-index .home_top_container_textblock_days {
-    font-size: 15px;
-    line-height: 25px;
+    padding-bottom: 5px;
   }
-}
-@media screen and (min-width:701px){
-  .p-index .home_top_container_textblock_days {
-    font-size: 15px;
-    line-height: 25px;
-  }
-}
-
-@media screen and (max-width:530px) {
-  .p-index .home_top_container_textblock_days .ja {
-    font-size: 12px;
-    flex: 1 0 0;
-    line-height: 25px;
+  .p-index .home_top_container_textblock_days p{
+    padding-bottom: 0px;
+    text-align: center;
+    font-family: 'Meiryo UI','TsukuARdGothic-Regular', '游ゴシック体', 'Yu Gothic', 'ヒラギノ角ゴシック Pro', 'Hiragino Kaku Gothic Pro', 'メイリオ', 'Meiryo, Osaka', 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+    letter-spacing: 0.12em;
+    font-size: 13px;
   }
 }
 
@@ -924,7 +919,6 @@ template {
     display: inline;
   }
 }
-
 
 
 
