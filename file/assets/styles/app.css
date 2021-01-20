@@ -1218,12 +1218,19 @@ template {
 }
 
 .p-index .home_main_block .home_main_contents_twitter_bottom {
-  width: 600px;
+  width: 450px;
   max-width: 100%;
   margin: 0 auto;
   border: 5px solid #eaeaea
 }
-
+@media screen and (max-width:450px) {
+  .p-index .home_main_block .home_main_contents_twitter_bottom {
+    width: 300px;
+    max-width: 100%;
+    margin: 0 auto;
+    border: 5px solid #eaeaea
+  }
+}
 /*
 .iframe-wrap {
   position: relative;
