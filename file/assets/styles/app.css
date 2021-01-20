@@ -839,7 +839,7 @@ template {
     .p-index .home_top_container_textblock_br {
     display: block;
     content: "";
-    height: 30px;
+    height: 35px;
   }
   .p-index .home_top_container_textblock_logo {
     position: relative;
@@ -855,7 +855,7 @@ template {
 
 @media screen and (max-width:530px) {
   .p-index .home_top_container_textblock_h2 {
-    font-size: 42px
+    font-size: 50px
   }
   .p-index .home_top_container_textblock_br {
     display: block;
@@ -885,7 +885,7 @@ template {
 
 
 .p-index .home_top_container_textblock_days .ja {
-  font-size: 14px;
+  font-size: 15px;
   font-weight: bold;
   font-family: 'Meiryo UI','TsukuARdGothic-Regular', '游ゴシック体', 'Yu Gothic', 'ヒラギノ角ゴシック Pro', 'Hiragino Kaku Gothic Pro', 'メイリオ', 'Meiryo, Osaka', 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
   letter-spacing: 0em;
