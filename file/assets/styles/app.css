@@ -1208,6 +1208,26 @@ template {
   }
 }
 
+@media screen and (max-width:450px) {
+  .p-index .home_main_block .home_main_contents_access_top p {
+  position: absolute;
+  left: 50%;
+  line-height: 1.9em;
+  letter-spacing: .06em;
+  text-align: left;
+  display: inline-block;
+  fontsize: 13px;
+}
+  .p-index .home_main_block .home_main_contents_access_top img {
+    position: absolute;
+    top: 14%;
+    left: 50% ;
+    bottom: 4%;
+    width: 180px;
+    margin-left:-190px; 
+  }
+}
+
 
 .p-index .home_main_block .home_main_contents_access_bottom {
   padding-top: 40px
