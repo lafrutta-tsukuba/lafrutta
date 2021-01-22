@@ -1216,15 +1216,15 @@ template {
   letter-spacing: .06em;
   text-align: left;
   display: inline-block;
-  fontsize: 13px;
+  fontsize: 12px;
 }
   .p-index .home_main_block .home_main_contents_access_top img {
     position: absolute;
     top: 14%;
     left: 50% ;
     bottom: 4%;
-    width: 180px;
-    margin-left:-190px; 
+    width: 150px;
+    margin-left:-160px; 
   }
 }
 
