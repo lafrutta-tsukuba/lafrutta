@@ -1218,11 +1218,11 @@ template {
   letter-spacing: .06em;
   text-align: left;
   display: inline-block;
-  font-size: 10px;
+  font-size: 13px;
 }
   .p-index .home_main_block .home_main_contents_access_top img {
     position: absolute;
-    top: 15%;
+    top: 14%;
     left: 50% ;
     bottom: 4%;
     width: 150px;
