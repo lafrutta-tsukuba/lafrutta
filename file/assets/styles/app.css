@@ -1200,6 +1200,15 @@ template {
 }
 
 @media screen and (max-width:530px) {
+ .p-index .home_main_block .home_main_contents_access_top p {
+  position: absolute;
+  left: 50%;
+  line-height: 1.9em;
+  letter-spacing: .06em;
+  text-align: left;
+  display: inline-block;
+  fontsize: 8px;
+}
   .p-index .home_main_block .home_main_contents_access_top img {
     position: absolute;
     top: 14%;
@@ -1218,7 +1227,7 @@ template {
   letter-spacing: .06em;
   text-align: left;
   display: inline-block;
-  fontsize: 5px;
+  fontsize: 8px;
 }
   .p-index .home_main_block .home_main_contents_access_top img {
     position: absolute;
