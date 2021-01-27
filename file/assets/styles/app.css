@@ -1202,8 +1202,9 @@ template {
   display: inline-block
 }
 .p-index .home_main_block .home_main_contents_access_top .tyuusya {
+  display:block;
   font-size: 12px;
-  line-height: 1px;
+  line-height: 3px;
 }
 .p-index .home_main_block .home_main_contents_access_top img {
   position: absolute;
