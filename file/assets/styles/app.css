@@ -1237,7 +1237,9 @@ template {
   font-size: 10px;
 }
   .p-index .home_main_block .home_main_contents_access_top .tyuusya {
+  display:block;
   font-size: 8px;
+  line-height: 8px;
 }
   .p-index .home_main_block .home_main_contents_access_top img {
     position: absolute;
