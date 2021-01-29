@@ -1329,4 +1329,12 @@ template {
     display:block;
 }
 
+.home_menu_container_textblock {
+  padding-bottom: 15px;
+  text-align: center;
+  font-family: 'Meiryo UI','TsukuARdGothic-Regular', '游ゴシック体', 'Yu Gothic', 'ヒラギノ角ゴシック Pro', 'Hiragino Kaku Gothic Pro', 'メイリオ', 'Meiryo, Osaka', 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+  letter-spacing: 0.12em;
+  font-size: 13px;
+}
+
 /*# sourceMappingURL=app.css.map */
